@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MovieStar</string>
+    <string name="avengers_end_game">Avengers: \nEnd Game</string>
+    <string name="mask">Mask</string>
+    <string name="imgTitle">imgTitle</string>
+    <string name="pg">pg</string>
+    <string name="tag">Action, Adventure, Fantasy</string>
+    <string name="review">125 Reviews</string>
+    <string name="star">star</string>
+    <string name="star2">star2</string>
+    <string name="empty_star">empty_star</string>
+    <string name="storyline">Storyline</string>
+    <string name="after_the_d">After the devastating events of Avengers: Infinity War,the universe is in ruins. With the help of remainingallies, the Avengers assemble oncemore in order to reverse Thanos\' actions and restorebalance to the universe.
+</string>
+    <string name="cast">Cast</string>
+    <string name="robert_downey">Robert Downey Jr.</string>
+    <string name="chris_hemsworth">Chris Hemsworth</string>
+    <string name="chris_evans">Chris \nEvans</string>
+    <string name="mark_ruffalo">Mark Ruffalo</string>
+</resources>
